@@ -1,4 +1,5 @@
 lion contributorB
+lion Sam
 tiger
 leopard
 turtle
